@@ -13,6 +13,8 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
 System.out.println("\t\t\tPrograma de gestion de alumnos\n");
+
+        //testing
         do {
             System.out.println("Seleccione la opcion que desea hacer\n\n");
             System.out.println("1.Alta alumnos");
