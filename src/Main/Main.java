@@ -2,7 +2,9 @@ package Main;
 
 import java.util.Scanner;
 
-
+/**
+ * Created by cristopher_ramirez on 14/11/16.
+ */
 public class Main {
 
     public static void main (String args[]){
@@ -12,8 +14,7 @@ public class Main {
 
 System.out.println("\t\t\tPrograma de gestion de alumnos\n");
 
-        //Starts the menu
-
+        //testing
         do {
             System.out.println("Seleccione la opcion que desea hacer\n\n");
             System.out.println("1.Alta alumnos");
