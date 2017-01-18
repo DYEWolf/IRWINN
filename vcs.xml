@@ -6,8 +6,16 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="DYEWolf" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.24.164.215" />
+          <option name="userName" value="cristopher_ramirez" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.24.164.215/desarrollo-mejoras/socket-io-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/NeuralNetwork" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Programas" />
   </component>
 </application>
